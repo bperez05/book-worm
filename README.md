@@ -26,7 +26,7 @@ This application allows users to search any book using Googles Book Search API. 
 
 ### Demo 🎥
 [Screenshot](APIWORKS!.png)
-Screenshot](DEPLOYED.png)
+[Screenshot](DEPLOYED.png)
 
 ### GitHub & Heroku Link
 
